@@ -1,8 +1,8 @@
 Requirements:
-tweepy
-pandas
-numpy
-random
-nltk
-tensorflow
-pickle
+tweepy,
+pandas,
+numpy,
+random,
+nltk,
+tensorflow,
+pickle,
