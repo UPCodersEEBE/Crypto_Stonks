@@ -66,10 +66,10 @@ class TweetsListener(tweepy.StreamListener):
     
     
 
-consumer_key = "-"
-consumer_secret = "-"
-access_token = "-"
-access_token_secret = "-"
+consumer_key = "y9iuklm5x6J00j1jST7xMvELc"
+consumer_secret = "p3OsGkS8vPHrL3VGPfJS1yPUiTwbrxt7eyPH9uGvpLfcHRTX6b"
+access_token = "2307220706-lHanCvNdgV9v7irKnrKwmNpeRsczsoYOjjhEMvA"
+access_token_secret = "PoRfn9EnqiqHTx6D9HozWc4AdwYLAYB0QKGrxRlsCDS8S"
 
 auth = tweepy.OAuthHandler(consumer_key, consumer_secret)
 auth.set_access_token(access_token, access_token_secret)
