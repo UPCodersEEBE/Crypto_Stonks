@@ -6,3 +6,4 @@ random,
 nltk,
 tensorflow,
 pickle,
+python-binance
